@@ -1,5 +1,5 @@
 {
-  "name": "my-qwik-library-name",
+  "name": "qwik-v2-rolldown-lib",
   "version": "0.0.1",
   "description": "Create a Qwik library",
   "main": "./lib/index.qwik.mjs",
@@ -37,17 +37,17 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "@qwik.dev/core": "2.0.0-beta.32",
-    "@qwik.dev/router": "latest",
+    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@a778b35",
+    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@a778b35",
     "@types/node": "24.10.0",
     "eslint": "10.0.2",
-    "eslint-plugin-qwik": "2.0.0-beta.32",
+    "eslint-plugin-qwik": "https://pkg.pr.new/QwikDev/qwik/eslint-plugin-qwik@a778b35",
     "globals": "17.0.0",
     "np": "^8.0.4",
     "prettier": "3.7.4",
     "typescript": "5.9.3",
     "typescript-eslint": "8.56.1",
-    "vite": "7.3.1",
+    "vite": "8.0.10",
     "vite-tsconfig-paths": "^4.2.1"
   }
 }
