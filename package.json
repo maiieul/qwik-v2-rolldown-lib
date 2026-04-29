@@ -1,6 +1,6 @@
 {
   "name": "qwik-v2-rolldown-lib",
-  "version": "0.1.2",
+  "version": "0.1.1",
   "description": "Create a Qwik library",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
@@ -43,7 +43,7 @@
     "eslint": "10.0.2",
     "eslint-plugin-qwik": "https://pkg.pr.new/QwikDev/qwik/eslint-plugin-qwik@a778b35",
     "globals": "17.0.0",
-    "np": "^8.0.4",
+    "np": "^11.2.0",
     "prettier": "3.7.4",
     "typescript": "5.9.3",
     "typescript-eslint": "8.56.1",
