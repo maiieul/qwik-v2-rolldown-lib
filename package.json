@@ -1,6 +1,6 @@
 {
   "name": "qwik-v2-rolldown-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create a Qwik library",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
@@ -37,17 +37,17 @@
   },
   "devDependencies": {
     "@eslint/js": "latest",
-    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@c3d7df5",
-    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@c3d7df5",
+    "@qwik.dev/core": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/core@146975d",
+    "@qwik.dev/router": "https://pkg.pr.new/QwikDev/qwik/@qwik.dev/router@146975d",
     "@types/node": "24.10.0",
     "eslint": "10.0.2",
-    "eslint-plugin-qwik": "https://pkg.pr.new/QwikDev/qwik/eslint-plugin-qwik@c3d7df5",
+    "eslint-plugin-qwik": "https://pkg.pr.new/QwikDev/qwik/eslint-plugin-qwik@146975d",
     "globals": "17.0.0",
     "np": "^11.2.0",
     "prettier": "3.7.4",
     "typescript": "5.9.3",
     "typescript-eslint": "8.56.1",
-    "vite": "8.0.10",
+    "vite": "8.2.1",
     "vite-tsconfig-paths": "^4.2.1"
   }
 }
